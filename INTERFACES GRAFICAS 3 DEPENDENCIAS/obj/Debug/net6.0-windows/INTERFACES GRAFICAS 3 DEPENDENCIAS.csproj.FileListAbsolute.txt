@@ -1,0 +1,21 @@
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\bin\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.exe
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\bin\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.deps.json
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\bin\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\bin\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.dll
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\bin\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.pdb
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS_MarkupCompile.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS_MarkupCompile.lref
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.g.resources
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.dll
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\refint\INTERFACES GRAFICAS 3 DEPENDENCIAS.dll
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.pdb
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\INTERFACES GRAFICAS 3 DEPENDENCIAS.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES GRAFICAS 3 DEPENDENCIAS\obj\Debug\net6.0-windows\ref\INTERFACES GRAFICAS 3 DEPENDENCIAS.dll

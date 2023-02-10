@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\bin\Debug\net6.0\Ejemplo Finally Abriendo Conexion.exe
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\bin\Debug\net6.0\Ejemplo Finally Abriendo Conexion.deps.json
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\bin\Debug\net6.0\Ejemplo Finally Abriendo Conexion.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\bin\Debug\net6.0\Ejemplo Finally Abriendo Conexion.dll
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\bin\Debug\net6.0\Ejemplo Finally Abriendo Conexion.pdb
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.dll
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\refint\Ejemplo Finally Abriendo Conexion.dll
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.pdb
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\Ejemplo Finally Abriendo Conexion.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplo Finally Abriendo Conexion\obj\Debug\net6.0\ref\Ejemplo Finally Abriendo Conexion.dll

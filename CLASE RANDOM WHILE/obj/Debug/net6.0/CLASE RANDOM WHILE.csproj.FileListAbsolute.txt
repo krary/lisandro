@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\bin\Debug\net6.0\CLASE RANDOM WHILE.exe
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\bin\Debug\net6.0\CLASE RANDOM WHILE.deps.json
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\bin\Debug\net6.0\CLASE RANDOM WHILE.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\bin\Debug\net6.0\CLASE RANDOM WHILE.dll
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\bin\Debug\net6.0\CLASE RANDOM WHILE.pdb
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.dll
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\refint\CLASE RANDOM WHILE.dll
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.pdb
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\CLASE RANDOM WHILE.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\CLASE RANDOM WHILE\obj\Debug\net6.0\ref\CLASE RANDOM WHILE.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\bin\Debug\net6.0\Lanzamiento de Excepsiones.exe
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\bin\Debug\net6.0\Lanzamiento de Excepsiones.deps.json
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\bin\Debug\net6.0\Lanzamiento de Excepsiones.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\bin\Debug\net6.0\Lanzamiento de Excepsiones.dll
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\bin\Debug\net6.0\Lanzamiento de Excepsiones.pdb
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.dll
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\refint\Lanzamiento de Excepsiones.dll
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.pdb
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\Lanzamiento de Excepsiones.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\Lanzamiento de Excepsiones\obj\Debug\net6.0\ref\Lanzamiento de Excepsiones.dll

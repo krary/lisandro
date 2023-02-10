@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\bin\Debug\net6.0\SOBRE CARGA DE METOOS.exe
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\bin\Debug\net6.0\SOBRE CARGA DE METOOS.deps.json
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\bin\Debug\net6.0\SOBRE CARGA DE METOOS.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\bin\Debug\net6.0\SOBRE CARGA DE METOOS.dll
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\bin\Debug\net6.0\SOBRE CARGA DE METOOS.pdb
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.dll
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\refint\SOBRE CARGA DE METOOS.dll
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.pdb
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\SOBRE CARGA DE METOOS.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\SOBRE CARGA DE METOOS\obj\Debug\net6.0\ref\SOBRE CARGA DE METOOS.dll

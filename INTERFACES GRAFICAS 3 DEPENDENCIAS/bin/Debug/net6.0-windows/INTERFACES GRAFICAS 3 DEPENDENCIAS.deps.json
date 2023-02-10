@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "INTERFACES GRAFICAS 3 DEPENDENCIAS/1.0.0": {
+        "runtime": {
+          "INTERFACES GRAFICAS 3 DEPENDENCIAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INTERFACES GRAFICAS 3 DEPENDENCIAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

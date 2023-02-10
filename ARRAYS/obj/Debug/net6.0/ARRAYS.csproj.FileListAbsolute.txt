@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS\bin\Debug\net6.0\ARRAYS.exe
+C:\Users\Usuario\3D Objects\C#\ARRAYS\bin\Debug\net6.0\ARRAYS.deps.json
+C:\Users\Usuario\3D Objects\C#\ARRAYS\bin\Debug\net6.0\ARRAYS.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\ARRAYS\bin\Debug\net6.0\ARRAYS.dll
+C:\Users\Usuario\3D Objects\C#\ARRAYS\bin\Debug\net6.0\ARRAYS.pdb
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.dll
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\refint\ARRAYS.dll
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.pdb
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ARRAYS.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS\obj\Debug\net6.0\ref\ARRAYS.dll

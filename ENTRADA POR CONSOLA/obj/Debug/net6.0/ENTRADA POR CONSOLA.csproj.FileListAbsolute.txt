@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\bin\Debug\net6.0\ENTRADA POR CONSOLA.exe
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\bin\Debug\net6.0\ENTRADA POR CONSOLA.deps.json
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\bin\Debug\net6.0\ENTRADA POR CONSOLA.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\bin\Debug\net6.0\ENTRADA POR CONSOLA.dll
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\bin\Debug\net6.0\ENTRADA POR CONSOLA.pdb
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.dll
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\refint\ENTRADA POR CONSOLA.dll
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.pdb
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ENTRADA POR CONSOLA.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\ENTRADA POR CONSOLA\obj\Debug\net6.0\ref\ENTRADA POR CONSOLA.dll

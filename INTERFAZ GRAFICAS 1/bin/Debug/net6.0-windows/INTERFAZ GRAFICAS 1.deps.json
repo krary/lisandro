@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "INTERFAZ GRAFICAS 1/1.0.0": {
+        "runtime": {
+          "INTERFAZ GRAFICAS 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INTERFAZ GRAFICAS 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

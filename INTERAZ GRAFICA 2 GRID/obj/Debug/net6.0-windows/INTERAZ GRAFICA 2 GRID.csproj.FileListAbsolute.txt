@@ -1,0 +1,21 @@
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\bin\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.exe
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\bin\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.deps.json
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\bin\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\bin\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.dll
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\bin\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.pdb
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID_MarkupCompile.cache
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID_MarkupCompile.lref
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.g.resources
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.dll
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\refint\INTERAZ GRAFICA 2 GRID.dll
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.pdb
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\INTERAZ GRAFICA 2 GRID.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\INTERAZ GRAFICA 2 GRID\obj\Debug\net6.0-windows\ref\INTERAZ GRAFICA 2 GRID.dll

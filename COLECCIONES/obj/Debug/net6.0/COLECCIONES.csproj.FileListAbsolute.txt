@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\bin\Debug\net6.0\COLECCIONES.exe
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\bin\Debug\net6.0\COLECCIONES.deps.json
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\bin\Debug\net6.0\COLECCIONES.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\bin\Debug\net6.0\COLECCIONES.dll
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\bin\Debug\net6.0\COLECCIONES.pdb
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.dll
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\refint\COLECCIONES.dll
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.pdb
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\COLECCIONES.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\COLECCIONES\obj\Debug\net6.0\ref\COLECCIONES.dll

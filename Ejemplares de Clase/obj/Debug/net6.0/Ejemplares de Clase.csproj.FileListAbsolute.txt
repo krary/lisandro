@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\bin\Debug\net6.0\Ejemplares de Clase.exe
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\bin\Debug\net6.0\Ejemplares de Clase.deps.json
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\bin\Debug\net6.0\Ejemplares de Clase.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\bin\Debug\net6.0\Ejemplares de Clase.dll
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\bin\Debug\net6.0\Ejemplares de Clase.pdb
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.dll
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\refint\Ejemplares de Clase.dll
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.pdb
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\Ejemplares de Clase.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\Ejemplares de Clase\obj\Debug\net6.0\ref\Ejemplares de Clase.dll

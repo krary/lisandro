@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\bin\Debug\net6.0\DESTRUCTORES.exe
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\bin\Debug\net6.0\DESTRUCTORES.deps.json
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\bin\Debug\net6.0\DESTRUCTORES.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\bin\Debug\net6.0\DESTRUCTORES.dll
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\bin\Debug\net6.0\DESTRUCTORES.pdb
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.dll
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\refint\DESTRUCTORES.dll
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.pdb
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\DESTRUCTORES.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\DESTRUCTORES\obj\Debug\net6.0\ref\DESTRUCTORES.dll

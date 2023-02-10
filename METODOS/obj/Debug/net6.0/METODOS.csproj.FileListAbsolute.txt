@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\METODOS\bin\Debug\net6.0\METODOS.exe
+C:\Users\Usuario\3D Objects\C#\METODOS\bin\Debug\net6.0\METODOS.deps.json
+C:\Users\Usuario\3D Objects\C#\METODOS\bin\Debug\net6.0\METODOS.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\METODOS\bin\Debug\net6.0\METODOS.dll
+C:\Users\Usuario\3D Objects\C#\METODOS\bin\Debug\net6.0\METODOS.pdb
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.dll
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\refint\METODOS.dll
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.pdb
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\METODOS.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\METODOS\obj\Debug\net6.0\ref\METODOS.dll

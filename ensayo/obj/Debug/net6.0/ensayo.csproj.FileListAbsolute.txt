@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\ensayo\bin\Debug\net6.0\ensayo.exe
+C:\Users\Usuario\3D Objects\C#\ensayo\bin\Debug\net6.0\ensayo.deps.json
+C:\Users\Usuario\3D Objects\C#\ensayo\bin\Debug\net6.0\ensayo.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\ensayo\bin\Debug\net6.0\ensayo.dll
+C:\Users\Usuario\3D Objects\C#\ensayo\bin\Debug\net6.0\ensayo.pdb
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.dll
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\refint\ensayo.dll
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.pdb
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ensayo.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\ensayo\obj\Debug\net6.0\ref\ensayo.dll

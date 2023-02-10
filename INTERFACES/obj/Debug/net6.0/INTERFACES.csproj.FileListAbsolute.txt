@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\INTERFACES\bin\Debug\net6.0\INTERFACES.exe
+C:\Users\Usuario\3D Objects\C#\INTERFACES\bin\Debug\net6.0\INTERFACES.deps.json
+C:\Users\Usuario\3D Objects\C#\INTERFACES\bin\Debug\net6.0\INTERFACES.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\INTERFACES\bin\Debug\net6.0\INTERFACES.dll
+C:\Users\Usuario\3D Objects\C#\INTERFACES\bin\Debug\net6.0\INTERFACES.pdb
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.dll
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\refint\INTERFACES.dll
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.pdb
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\INTERFACES.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\INTERFACES\obj\Debug\net6.0\ref\INTERFACES.dll

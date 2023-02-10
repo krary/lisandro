@@ -1,0 +1,21 @@
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\bin\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.exe
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\bin\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.deps.json
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\bin\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\bin\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.dll
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\bin\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.pdb
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING_MarkupCompile.cache
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING_MarkupCompile.lref
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.g.resources
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.dll
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\refint\INTERFAZ GRAFICAS DATA BANDING.dll
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.pdb
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\INTERFAZ GRAFICAS DATA BANDING.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\INTERFAZ GRAFICAS DATA BANDING\obj\Debug\net6.0-windows\ref\INTERFAZ GRAFICAS DATA BANDING.dll

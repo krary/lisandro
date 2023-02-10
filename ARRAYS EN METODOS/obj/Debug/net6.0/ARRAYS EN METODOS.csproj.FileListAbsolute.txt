@@ -1,0 +1,15 @@
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\bin\Debug\net6.0\ARRAYS EN METODOS.exe
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\bin\Debug\net6.0\ARRAYS EN METODOS.deps.json
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\bin\Debug\net6.0\ARRAYS EN METODOS.runtimeconfig.json
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\bin\Debug\net6.0\ARRAYS EN METODOS.dll
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\bin\Debug\net6.0\ARRAYS EN METODOS.pdb
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.csproj.AssemblyReference.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.AssemblyInfoInputs.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.AssemblyInfo.cs
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.dll
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\refint\ARRAYS EN METODOS.dll
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.pdb
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ARRAYS EN METODOS.genruntimeconfig.cache
+C:\Users\Usuario\3D Objects\C#\ARRAYS EN METODOS\obj\Debug\net6.0\ref\ARRAYS EN METODOS.dll
